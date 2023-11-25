@@ -67,4 +67,4 @@ many of the algorithms can be found in the [wiki][explanation].
   <img src = "https://contrib.rocks/image?repo=TheAlgorithms/JavaScript"/>
 </a>
 
-just want it to be free
+just want it to be free, creating difference for the new developers
